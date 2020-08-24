@@ -1,0 +1,7 @@
+= Sandbox: Contract Tests in Kotlin
+
+Example for Contract Tests
+
+== Getting Started / Demo
+
+`gradlew build`
