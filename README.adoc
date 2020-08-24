@@ -1,6 +1,7 @@
 = Sandbox: Contract Tests in Kotlin
 
-Example for Contract Tests
+Source code for my Blog Post link:http://richargh.de/posts/Contract-Tests-in-Kotlin[on Contract Tests],
+heavily inspired by the link:https://blog.thecodewhisperer.com/permalink/getting-started-with-contract-tests[post] from J. B. Rainsberger.
 
 == Getting Started / Demo
 
